@@ -1,2 +1,2 @@
 # GraphNetworkx
-Graphs manipulation and visualization with python's library networkx
+Just an implementation made possible with graphs' manipulation and visualization using python's library networkx.
